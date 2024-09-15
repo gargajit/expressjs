@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
     res.send("<h1>Welcome to the Homepage!</h1><p>This website is created using Node and ExpressJS.</p>");
 });
 
-app.get("/", (req, res) => {
+app.get("/about", (req, res) => {
     res.send("<h1>About Us</h1><p>We are learning backend.</p>");
 });
         
