@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ajit Garg",
   "license": "ISC",
-  "description": "",
+  "description": "basic website using node and express",
   "dependencies": {
     "express": "^4.21.0"
   }
